@@ -1,0 +1,2 @@
+# yamagata-covid19-virusNetworkJsonGenerator
+山形県新型コロナウイルス感染症対策サイトの感染ネットワーク用データのJson生成ツールです。
