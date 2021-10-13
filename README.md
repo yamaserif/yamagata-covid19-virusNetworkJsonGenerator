@@ -17,3 +17,7 @@ Excelのマクロを使用して、山形県や山形市が公開するPDFデー
 9. 「dataJson」タブから「Jsonテキストの作成」を押下する。
 10. 生成された「virusNetwork.json」ファイルを[covid19のリポジトリ](https://github.com/yamaserif/covid19/tree/development/data)の「virusNetwork.json」と差し替えて更新する。
 11. 本リポジトリを更新する。
+
+
+**※2～6行目の手順は[PdfToExcel_covid19_yamagata](https://github.com/yamaserif/PdfToExcel_covid19_yamagata)にて省略できる。  
+また、その場合は貼り付けたあとにMainタブの「データ調整」ボタンを押下することにより、セルの再計算等が行われる。**
