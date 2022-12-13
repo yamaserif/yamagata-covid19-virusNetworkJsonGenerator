@@ -18,8 +18,8 @@ $topData4 = Get-Content ..\virusNetwork.json -Encoding UTF8
 
 $lastUpdate = Get-Content virusNetwork_lastUpdate.json -RAW -Encoding UTF8
 
-$topData4[-1] = $lastUpdate
+$topData4[-2] = $lastUpdate
 
-Set-Content ..\virusNetwork.json $topData4 -Encoding utf8
+Set-Content ..\virusNetwork.json $topData4[0..($topData4.Length - 2)] -Encoding utf8
 
 exit 0
