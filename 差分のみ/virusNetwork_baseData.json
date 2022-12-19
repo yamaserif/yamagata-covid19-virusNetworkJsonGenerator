@@ -1,129 +1,49 @@
 
 ,    {
         "data": {
-            "id": 99999867001,
-            "date": "2022/12/18",
-            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+            "id": 99999869001,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999867002,
-            "date": "2022/12/18",
-            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+            "id": 99999869002,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999867003,
-            "date": "2022/12/18",
-            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+            "id": 99999869003,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999867004,
-            "date": "2022/12/18",
-            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+            "id": 99999869004,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999867005,
-            "date": "2022/12/18",
-            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+            "id": 99999869005,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999867006,
-            "date": "2022/12/18",
-            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999867007,
-            "date": "2022/12/18",
-            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999867008,
-            "date": "2022/12/18",
-            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999868001,
-            "date": "2022/12/18",
-            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999868002,
-            "date": "2022/12/18",
-            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999868003,
-            "date": "2022/12/18",
-            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999868004,
-            "date": "2022/12/18",
-            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999868005,
-            "date": "2022/12/18",
-            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999868006,
-            "date": "2022/12/18",
-            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999868007,
-            "date": "2022/12/18",
-            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999868008,
-            "date": "2022/12/18",
-            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
+            "id": 99999869006,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     }
