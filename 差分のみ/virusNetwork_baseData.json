@@ -1,49 +1,9 @@
 
 ,    {
         "data": {
-            "id": 99999905001,
-            "date": "2023/1/6",
-            "label": "クラスターNo.905\n2023/1/6\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999905002,
-            "date": "2023/1/6",
-            "label": "クラスターNo.905\n2023/1/6\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999905003,
-            "date": "2023/1/6",
-            "label": "クラスターNo.905\n2023/1/6\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999905004,
-            "date": "2023/1/6",
-            "label": "クラスターNo.905\n2023/1/6\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999905005,
-            "date": "2023/1/6",
-            "label": "クラスターNo.905\n2023/1/6\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999905006,
-            "date": "2023/1/6",
-            "label": "クラスターNo.905\n2023/1/6\n酒田市\n- ー"
+            "id": 99999906001,
+            "date": "2023/1/7",
+            "label": "クラスターNo.906\n2023/1/7\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     }
