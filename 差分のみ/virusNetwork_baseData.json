@@ -1,121 +1,65 @@
 
 ,    {
         "data": {
-            "id": 99999910001,
-            "date": "2023/1/11",
-            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+            "id": 99999915001,
+            "date": "2023/1/12",
+            "label": "クラスターNo.915\n2023/1/12\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999910002,
-            "date": "2023/1/11",
-            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+            "id": 99999915002,
+            "date": "2023/1/12",
+            "label": "クラスターNo.915\n2023/1/12\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999910003,
-            "date": "2023/1/11",
-            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+            "id": 99999915003,
+            "date": "2023/1/12",
+            "label": "クラスターNo.915\n2023/1/12\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999910004,
-            "date": "2023/1/11",
-            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+            "id": 99999915004,
+            "date": "2023/1/12",
+            "label": "クラスターNo.915\n2023/1/12\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999910005,
-            "date": "2023/1/11",
-            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+            "id": 99999915005,
+            "date": "2023/1/12",
+            "label": "クラスターNo.915\n2023/1/12\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999910006,
-            "date": "2023/1/11",
-            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+            "id": 99999915006,
+            "date": "2023/1/12",
+            "label": "クラスターNo.915\n2023/1/12\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999911001,
-            "date": "2023/1/11",
-            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
+            "id": 99999915007,
+            "date": "2023/1/12",
+            "label": "クラスターNo.915\n2023/1/12\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999911002,
-            "date": "2023/1/11",
-            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999911003,
-            "date": "2023/1/11",
-            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999911004,
-            "date": "2023/1/11",
-            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999911005,
-            "date": "2023/1/11",
-            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999911006,
-            "date": "2023/1/11",
-            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999912001,
-            "date": "2023/1/11",
-            "label": "クラスターNo.912\n2023/1/11\n山形市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999913001,
-            "date": "2023/1/11",
-            "label": "クラスターNo.913\n2023/1/11\n山形市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999914001,
-            "date": "2023/1/11",
-            "label": "クラスターNo.914\n2023/1/11\n山形市\n- ー"
+            "id": 99999915008,
+            "date": "2023/1/12",
+            "label": "クラスターNo.915\n2023/1/12\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     }
