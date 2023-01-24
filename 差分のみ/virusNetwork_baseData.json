@@ -1,9 +1,17 @@
 
 ,    {
         "data": {
-            "id": 99999933001,
-            "date": "2023/1/23",
-            "label": "クラスターNo.933\n2023/1/23\n山形市\n- ー"
+            "id": 99999934001,
+            "date": "2023/1/24",
+            "label": "クラスターNo.934\n2023/1/24\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999935001,
+            "date": "2023/1/24",
+            "label": "クラスターNo.935\n2023/1/24\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     }
