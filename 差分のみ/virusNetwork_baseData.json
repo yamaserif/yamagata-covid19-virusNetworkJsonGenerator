@@ -1,137 +1,97 @@
 
 ,    {
         "data": {
-            "id": 99999946001,
-            "date": "2023/2/7",
-            "label": "クラスターNo.946\n2023/2/7\n白鷹町\n- ー"
+            "id": 99999948001,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999946002,
-            "date": "2023/2/7",
-            "label": "クラスターNo.946\n2023/2/7\n白鷹町\n- ー"
+            "id": 99999948002,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999946003,
-            "date": "2023/2/7",
-            "label": "クラスターNo.946\n2023/2/7\n白鷹町\n- ー"
+            "id": 99999948003,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999946004,
-            "date": "2023/2/7",
-            "label": "クラスターNo.946\n2023/2/7\n白鷹町\n- ー"
+            "id": 99999948004,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999946005,
-            "date": "2023/2/7",
-            "label": "クラスターNo.946\n2023/2/7\n白鷹町\n- ー"
+            "id": 99999948005,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999946006,
-            "date": "2023/2/7",
-            "label": "クラスターNo.946\n2023/2/7\n白鷹町\n- ー"
+            "id": 99999948006,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999946007,
-            "date": "2023/2/7",
-            "label": "クラスターNo.946\n2023/2/7\n白鷹町\n- ー"
+            "id": 99999948007,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999947001,
-            "date": "2023/2/7",
-            "label": "クラスターNo.947\n2023/2/7\n酒田市\n- ー"
+            "id": 99999948008,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999947002,
-            "date": "2023/2/7",
-            "label": "クラスターNo.947\n2023/2/7\n酒田市\n- ー"
+            "id": 99999948009,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999947003,
-            "date": "2023/2/7",
-            "label": "クラスターNo.947\n2023/2/7\n酒田市\n- ー"
+            "id": 99999948010,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999947004,
-            "date": "2023/2/7",
-            "label": "クラスターNo.947\n2023/2/7\n酒田市\n- ー"
+            "id": 99999948011,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999947005,
-            "date": "2023/2/7",
-            "label": "クラスターNo.947\n2023/2/7\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999947006,
-            "date": "2023/2/7",
-            "label": "クラスターNo.947\n2023/2/7\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999947007,
-            "date": "2023/2/7",
-            "label": "クラスターNo.947\n2023/2/7\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999947008,
-            "date": "2023/2/7",
-            "label": "クラスターNo.947\n2023/2/7\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999947009,
-            "date": "2023/2/7",
-            "label": "クラスターNo.947\n2023/2/7\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999947010,
-            "date": "2023/2/7",
-            "label": "クラスターNo.947\n2023/2/7\n酒田市\n- ー"
+            "id": 99999948012,
+            "date": "2023/2/8",
+            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     }
