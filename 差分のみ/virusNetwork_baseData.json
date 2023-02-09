@@ -1,97 +1,17 @@
 
 ,    {
         "data": {
-            "id": 99999948001,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
+            "id": 99999949001,
+            "date": "2023/2/9",
+            "label": "クラスターNo.949\n2023/2/9\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999948002,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999948003,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999948004,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999948005,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999948006,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999948007,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999948008,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999948009,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999948010,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999948011,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999948012,
-            "date": "2023/2/8",
-            "label": "クラスターNo.948\n2023/2/8\n酒田市\n- ー"
+            "id": 99999950001,
+            "date": "2023/2/9",
+            "label": "クラスターNo.950\n2023/2/9\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     }
