@@ -1,73 +1,65 @@
 
 ,    {
         "data": {
-            "id": 99999979001,
-            "date": "2023/4/1",
-            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+            "id": 99999980001,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999979002,
-            "date": "2023/4/1",
-            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+            "id": 99999980002,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999979003,
-            "date": "2023/4/1",
-            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+            "id": 99999980003,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999979004,
-            "date": "2023/4/1",
-            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+            "id": 99999980004,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999979005,
-            "date": "2023/4/1",
-            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+            "id": 99999980005,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999979006,
-            "date": "2023/4/1",
-            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+            "id": 99999980006,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999979007,
-            "date": "2023/4/1",
-            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+            "id": 99999980007,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999979008,
-            "date": "2023/4/1",
-            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
-        },
-        "classes": ["multiline-manual", "else"]
-    },
-    {
-        "data": {
-            "id": 99999979009,
-            "date": "2023/4/1",
-            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+            "id": 99999980008,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     }
