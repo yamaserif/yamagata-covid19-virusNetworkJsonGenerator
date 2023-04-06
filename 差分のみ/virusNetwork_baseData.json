@@ -1,65 +1,81 @@
 
 ,    {
         "data": {
-            "id": 99999981001,
-            "date": "2023/4/5",
-            "label": "クラスターNo.981\n2023/4/5\n真室川町\n- ー"
+            "id": 99999982001,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999981002,
-            "date": "2023/4/5",
-            "label": "クラスターNo.981\n2023/4/5\n真室川町\n- ー"
+            "id": 99999982002,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999981003,
-            "date": "2023/4/5",
-            "label": "クラスターNo.981\n2023/4/5\n真室川町\n- ー"
+            "id": 99999982003,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999981004,
-            "date": "2023/4/5",
-            "label": "クラスターNo.981\n2023/4/5\n真室川町\n- ー"
+            "id": 99999982004,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999981005,
-            "date": "2023/4/5",
-            "label": "クラスターNo.981\n2023/4/5\n真室川町\n- ー"
+            "id": 99999982005,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999981006,
-            "date": "2023/4/5",
-            "label": "クラスターNo.981\n2023/4/5\n真室川町\n- ー"
+            "id": 99999982006,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999981007,
-            "date": "2023/4/5",
-            "label": "クラスターNo.981\n2023/4/5\n真室川町\n- ー"
+            "id": 99999982007,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     },
     {
         "data": {
-            "id": 99999981008,
-            "date": "2023/4/5",
-            "label": "クラスターNo.981\n2023/4/5\n真室川町\n- ー"
+            "id": 99999982008,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999983001,
+            "date": "2023/4/6",
+            "label": "クラスターNo.983\n2023/4/6\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999984001,
+            "date": "2023/4/6",
+            "label": "クラスターNo.984\n2023/4/6\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
     }
